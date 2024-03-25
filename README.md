@@ -13,6 +13,7 @@
 - [구글 서치콘솔 사이트맵](https://mh-games.github.io/sitemap.xml)
 - [구글 서치콘솔 robots](https://mh-games.github.io/robots.txt)
 - [구글 서치콘솔 RSS](https://mh-games.github.io/feed.xml)
+- [플레이콘솔 딥링크 JSON](https://mh-games.github.io/.well-known/assetlinks.json)
 
 
 

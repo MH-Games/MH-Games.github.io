@@ -5,7 +5,7 @@
 이하는 각종 링크입니다.
 
 개발된 앱 목록 보기
-- [플레이스토어](https://play.google.com/store/apps/dev?id=8290699567799906041)
+- [플레이스토어](https://play.google.com/store/apps/dev?id=8046038540507244871)
 
 광고 크롤링 위한 링크
 - [광고 크롤링](https://mh-games.github.io/app-ads.txt)

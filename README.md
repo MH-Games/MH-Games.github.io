@@ -48,3 +48,58 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+
+<!-- Remove the container if you want to extend the Footer to full width. -->
+<div class="container my-5">
+
+  <footer class="bg-light text-center text-white">
+  <!-- Grid container -->
+  <div class="container p-4 pb-0">
+    <!-- Section: Social media -->
+    <section class="mb-4">
+      
+      <!-- Store -->
+      <a
+        class="btn btn-primary btn-floating m-1"
+        style="background-color: #dd4b39;"
+        href="https://play.google.com/store/apps/dev?id=8046038540507244871"
+        role="button"
+        ><i class="fab fa-google-play"></i
+      ></a>
+      
+      <!-- Google -->
+      <a
+        class="btn btn-primary btn-floating m-1"
+        style="background-color: #dd4b39;"
+        href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kalehwang410@gmail.com"
+        target="_blank"
+        role="button"
+        ><i class="fab fa-google"></i
+      ></a>
+      
+      <!-- Github -->
+      <a
+        class="btn btn-primary btn-floating m-1"
+        style="background-color: #333333;"
+        href="https://github.com/MH-Games"
+        role="button"
+        ><i class="fab fa-github"></i
+      ></a>
+    </section>
+    <!-- Section: Social media -->
+  </div>
+  <!-- Grid container -->
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2024 Copyright:
+    <a class="text-white" href="https://MH-Games.com/">엠에이치게임즈(MH-Games.com)
+    사업자등록번호 505-46-01079 | 통신판매신고 제2024-의정부호원-0143 | 대표 : 황규영
+    </a>
+  </div>
+  <!-- Copyright -->
+</footer>
+  
+</div>
+<!-- End of .container -->

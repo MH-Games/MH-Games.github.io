@@ -8,25 +8,25 @@
 - [플레이스토어](https://play.google.com/store/apps/dev?id=8046038540507244871)
 
 광고 크롤링 위한 링크
-- [광고 크롤링](https://mh-games.github.io/app-ads.txt)
-- [구글 서치콘솔 인증](https://mh-games.github.io/googlefd894035d5ef7322.html)
-- [구글 서치콘솔 사이트맵](https://mh-games.github.io/sitemap.xml)
-- [구글 서치콘솔 robots](https://mh-games.github.io/robots.txt)
-- [구글 서치콘솔 RSS](https://mh-games.github.io/feed.xml)
-- [플레이콘솔 딥링크 JSON](https://mh-games.github.io/.well-known/assetlinks.json)
+- [광고 크롤링](https://mh-games.com/app-ads.txt)
+- [구글 서치콘솔 인증](https://mh-games.com/googlefd894035d5ef7322.html)
+- [구글 서치콘솔 사이트맵](https://mh-games.com/sitemap.xml)
+- [구글 서치콘솔 robots](https://mh-games.com/robots.txt)
+- [구글 서치콘솔 RSS](https://mh-games.com/feed.xml)
+- [플레이콘솔 딥링크 JSON](https://mh-games.com/.well-known/assetlinks.json)
 
 
 
 각종 규정
 
-- [개인정보처리방침 - 한글](https://mh-games.github.io/Privacy/)
+- [개인정보처리방침 - 한글](https://mh-games.com/Privacy/)
 
-- [Privacy Policy - English](https://mh-games.github.io/Privacy_en/)
+- [Privacy Policy - English](https://mh-games.com/Privacy_en/)
 
 
-- [서비스이용약관 - 한글](https://mh-games.github.io/Service/)
+- [서비스이용약관 - 한글](https://mh-games.com/Service/)
   
-- [Terms of Service and End User License Agreement - English](https://mh-games.github.io/Service_en/)
+- [Terms of Service and End User License Agreement - English](https://mh-games.com/Service_en/)
 
 감사합니다!
 

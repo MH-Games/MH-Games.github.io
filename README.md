@@ -7,6 +7,15 @@
 개발된 앱 목록 보기
 - [플레이스토어](https://play.google.com/store/apps/dev?id=8046038540507244871)
 
+
+각종 규정
+- [개인정보처리방침 - 한글](https://mh-games.com/Privacy/)
+- [Privacy Policy - English](https://mh-games.com/Privacy_en/)
+  
+- [서비스이용약관 - 한글](https://mh-games.com/Service/)
+- [Terms of Service and End User License Agreement - English](https://mh-games.com/Service_en/)
+
+  
 광고 크롤링 위한 링크
 - [광고 크롤링](https://mh-games.com/app-ads.txt)
 - [구글 서치콘솔 인증](https://mh-games.com/googlefd894035d5ef7322.html)
@@ -15,24 +24,9 @@
 - [구글 서치콘솔 RSS](https://mh-games.com/feed.xml)
 - [플레이콘솔 딥링크 JSON](https://mh-games.com/.well-known/assetlinks.json)
 
-
-
-각종 규정
-
-- [개인정보처리방침 - 한글](https://mh-games.com/Privacy/)
-
-- [Privacy Policy - English](https://mh-games.com/Privacy_en/)
-
-
-- [서비스이용약관 - 한글](https://mh-games.com/Service/)
-  
-- [Terms of Service and End User License Agreement - English](https://mh-games.com/Service_en/)
-
 감사합니다!
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1346337765649621"
-     crossorigin="anonymous"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1346337765649621"
      crossorigin="anonymous"></script>
 
@@ -48,9 +42,10 @@
 </script>
 
 
+
 <footer class="bg-light text-center text-white">
-  <!-- Section: Social media -->
-  <section class="mb-4">
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     <!-- Store -->
     <a
       class="btn btn-primary btn-floating m-1"
@@ -75,13 +70,6 @@
       role="button">
       <i class="fab fa-github"></i>
     </a>
-  </section>
-  <!-- Section: Social media -->
-
-
-
-  <!-- Copyright -->
-  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     <b> © 2024 Copyright:</b>
     <a class="text-white" href="https://MH-Games.com/"><b>엠에이치게임즈(MH-Games.com)</b></a>. All Rights Reserved.
     <p><br>사업자등록번호 505-46-01079 | 통신판매신고 제2024-의정부호원-0143 | 대표 : 황규영</p>

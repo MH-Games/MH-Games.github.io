@@ -71,4 +71,6 @@
   </div>
   <!-- Copyright -->
 </footer>
+
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5&width=100%)

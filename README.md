@@ -1,6 +1,4 @@
-<header>
-  <img scr="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20엠에이치게임즈(MH-Games)%20%20&height=200&fontSize=60&fontColor=ffffff" width="100%">
-</header>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20엠에이치게임즈(MH-Games)%20%20&height=200&width=100%&fontSize=60&fontColor=ffffff")
 
 안녕하세요. 유니티로 간단한 게임을 만드는 MH Games 개발자입니다.
 
@@ -44,9 +42,17 @@
 </script>
 
 <footer class="bg-light text-center text-white">
+  <!-- Example -->
+  <span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+  </span>
   <!-- 스토어 -->
   <span>
-    <img src="https://img.shields.io/badge/GooglePlay?logo=googleplay&logoColor=white&label=Store&labelColor=%23414141&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D8046038540507244871">
+    <a href="https://play.google.com/store/apps/dev?id=8046038540507244871">
+      <img src="https://img.shields.io/badge/Instagram-hexcode#414141?style=plastic&logo=Store&logoColor=white"/>
+    </a>
   </span>
   <!-- 지메일 -->
   <span>
@@ -69,4 +75,4 @@
   </div>
   <!-- Copyright -->
 </footer>
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5&width=100%)

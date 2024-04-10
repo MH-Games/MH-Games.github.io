@@ -48,7 +48,9 @@
   <span>
     <a href="https://play.google.com/store/apps/dev?id=8046038540507244871">
       <img src="https://img.shields.io/badge/Store-414141"
-        style="plastic; width=238; height=75;"
+        style="plastic"
+        width="238"
+        height="75"
         logo="GooglePlay"
         logoColor="white"
       />

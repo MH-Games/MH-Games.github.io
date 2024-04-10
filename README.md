@@ -46,9 +46,7 @@
 <footer class="bg-light text-center text-white">
   <!-- 스토어 -->
   <span>
-    <a href="https://play.google.com/store/apps/dev?id=8046038540507244871">
-      <img src="https://img.shields.io/badge/Instagram-hexcode#414141?style=plastic&logo=Store&logoColor=white"/>
-    </a>
+    <img src="https://img.shields.io/badge/GooglePlay?logo=googleplay&logoColor=white&label=Store&labelColor=%23414141&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D8046038540507244871">
   </span>
   <!-- 지메일 -->
   <span>

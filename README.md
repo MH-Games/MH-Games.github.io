@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20MH-Games%20%20&height=200&fontSize=90&fontColor=ffffff)
+<header>
+  <img scr="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20엠에이치게임즈(MH-Games)%20%20&height=200&fontSize=60&fontColor=ffffff" width="100%">
+</header>
 
 안녕하세요. 유니티로 간단한 게임을 만드는 MH Games 개발자입니다.
 
@@ -41,36 +43,27 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
-<div>
-    <!-- Store -->
-    <a
-      class="btn btn-primary btn-floating m-1"
-      style="background-color: #dd4b39;"
-      href="#!"
-      role="button">
-      <i class="fab fa-google-play"></i>
-    </a>
-    <!-- Google -->
-    <a
-      class="btn btn-primary btn-floating m-1"
-      style="background-color: #dd4b39;"
-      href="#!"
-      role="button">
-      <i class="fab fa-google"></i>
-    </a>
-    <!-- Github -->
-    <a
-      class="btn btn-primary btn-floating m-1"
-      style="background-color: #333333;"
-      href="#!"
-      role="button">
-      <i class="fab fa-github"></i>
-    </a>
-</div>
 <footer class="bg-light text-center text-white">
+  <!-- 스토어 -->
+  <span>
+    <a href="https://play.google.com/store/apps/dev?id=8046038540507244871">
+      <img src="https://img.shields.io/badge/Instagram-hexcode#414141?style=plastic&logo=Store&logoColor=white"/>
+    </a>
+  </span>
+  <!-- 지메일 -->
+  <span>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalehwang410@gmail.com">
+      <img src="https://img.shields.io/badge/Instagram-hexcode#EA4335?style=plastic&logo=G-Mail&logoColor=white"/>
+    </a>
+  </span>
+  <!-- 깃허브 -->
+  <span>
+    <a href="https://github.com/MH-Games">
+      <img src="https://img.shields.io/badge/Instagram-hexcode#181717?style=plastic&logo=Github&logoColor=white"/>
+    </a>
+  </span>
   <!-- Copyright -->
+  <br>
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     <b> © 2024 Copyright:</b>
     <a class="text-white" href="https://MH-Games.com/"><b>엠에이치게임즈(MH-Games.com)</b></a>. All Rights Reserved.

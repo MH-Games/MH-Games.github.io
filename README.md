@@ -55,7 +55,7 @@
     <a
       class="btn btn-primary btn-floating m-1"
       style="background-color: #dd4b39;"
-      href="https://play.google.com/store/apps/dev?id=8046038540507244871"
+      href="#!"
       role="button">
       <i class="fab fa-google-play"></i>
     </a>
@@ -63,7 +63,7 @@
     <a
       class="btn btn-primary btn-floating m-1"
       style="background-color: #dd4b39;"
-      href="https://mail.google.com/mail/?view=cm&fs=1&to=kalehwang410@gmail.com"
+      href="#!"
       role="button">
       <i class="fab fa-google"></i>
     </a>
@@ -71,7 +71,7 @@
     <a
       class="btn btn-primary btn-floating m-1"
       style="background-color: #333333;"
-      href="!#"
+      href="#!"
       role="button">
       <i class="fab fa-github"></i>
     </a>
@@ -80,10 +80,9 @@
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    **© 2024 Copyright:**
-    <a class="text-white" href="https://MH-Games.com/">**엠에이치게임즈(MH-Games.com)**</a>
-    <br>
-    <p>사업자등록번호 505-46-01079 | 통신판매신고 제2024-의정부호원-0143 | 대표 : 황규영</p>
+    <b> © 2024 Copyright:</b>
+    <a class="text-white" href="https://MH-Games.com/"><b>엠에이치게임즈(MH-Games.com)</b></a>
+    <p><br>사업자등록번호 505-46-01079 | 통신판매신고 제2024-의정부호원-0143 | 대표 : 황규영</p>
   </div>
   <!-- Copyright -->
 </footer>

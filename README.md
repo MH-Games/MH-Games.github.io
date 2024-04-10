@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20MH-Games%20%20&height=200&fontSize=90&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 안녕하세요. 유니티로 간단한 게임을 만드는 MH Games 개발자입니다.
 
@@ -89,3 +88,4 @@
   </div>
   <!-- Copyright -->
 </footer>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

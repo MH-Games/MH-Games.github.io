@@ -43,9 +43,7 @@
 
 
 
-<footer class="bg-light text-center text-white">
-  <!-- Copyright -->
-  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+<div>
     <!-- Store -->
     <a
       class="btn btn-primary btn-floating m-1"
@@ -70,6 +68,10 @@
       role="button">
       <i class="fab fa-github"></i>
     </a>
+</div>
+<footer class="bg-light text-center text-white">
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     <b> © 2024 Copyright:</b>
     <a class="text-white" href="https://MH-Games.com/"><b>엠에이치게임즈(MH-Games.com)</b></a>. All Rights Reserved.
     <p><br>사업자등록번호 505-46-01079 | 통신판매신고 제2024-의정부호원-0143 | 대표 : 황규영</p>

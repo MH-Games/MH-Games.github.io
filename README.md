@@ -53,13 +53,13 @@
   <!-- 지메일 -->
   <span>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalehwang410@gmail.com">
-      <img src="https://img.shields.io/badge/Instagram-hexcode#EA4335?style=plastic&logo=G-Mail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-hexcode#EA4335?style=plastic&logo=G-Mail&logoColor=white"/>
     </a>
   </span>
   <!-- 깃허브 -->
   <span>
     <a href="https://github.com/MH-Games">
-      <img src="https://img.shields.io/badge/Instagram-hexcode#181717?style=plastic&logo=Github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Github-hexcode#181717?style=plastic&logo=Github&logoColor=white"/>
     </a>
   </span>
   <!-- Copyright -->

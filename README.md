@@ -41,6 +41,8 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+
 <footer class="bg-light text-center text-white">
   <!-- Example -->
   <span>
@@ -51,7 +53,7 @@
   <!-- 스토어 -->
   <span>
     <a href="https://play.google.com/store/apps/dev?id=8046038540507244871">
-      <img src="https://img.shields.io/badge/Instagram-hexcode#414141?style=plastic&logo=Store&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Store-414141?style=plastic&logo=GooglePlay&logoColor=white"/>
     </a>
   </span>
   <!-- 지메일 -->

@@ -48,13 +48,10 @@
 </script>
 
 
-<!-- Remove the container if you want to extend the Footer to full width. -->
-<div class="container my-5">
-
-  <footer class="bg-light text-center text-white">
+<footer class="bg-light text-center text-white">
+  
   <!-- Section: Social media -->
   <section class="mb-4">
-    
     <!-- Store -->
     <a
       class="btn btn-primary btn-floating m-1"
@@ -63,7 +60,6 @@
       role="button">
       <i class="fab fa-google-play"></i>
     </a>
-    
     <!-- Google -->
     <a
       class="btn btn-primary btn-floating m-1"
@@ -72,7 +68,6 @@
       role="button">
       <i class="fab fa-google"></i>
     </a>
-    
     <!-- Github -->
     <a
       class="btn btn-primary btn-floating m-1"
@@ -86,12 +81,10 @@
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    <b>© 2024 Copyright:
-    <a> class="text-white" href="https://MH-Games.com/">엠에이치게임즈(MH-Games.com)</a></b>
+    <b>© 2024 Copyright:</b>
+    <b><a> class="text-white" href="https://MH-Games.com/">엠에이치게임즈(MH-Games.com)</a></b>
+    <br>
     <p>사업자등록번호 505-46-01079 | 통신판매신고 제2024-의정부호원-0143 | 대표 : 황규영</p>
   </div>
   <!-- Copyright -->
 </footer>
-  
-</div>
-<!-- End of .container -->

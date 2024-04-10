@@ -40,16 +40,10 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
+<br>
+<br>
 
 <footer class="bg-light text-center text-white">
-  <!-- Example -->
-  <span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-  </span>
   <!-- 스토어 -->
   <span>
     <a href="https://play.google.com/store/apps/dev?id=8046038540507244871">
@@ -59,13 +53,13 @@
   <!-- 지메일 -->
   <span>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalehwang410@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-hexcode#EA4335?style=plastic&logo=G-Mail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=GMail&logoColor=white"/>
     </a>
   </span>
   <!-- 깃허브 -->
   <span>
     <a href="https://github.com/MH-Games">
-      <img src="https://img.shields.io/badge/Github-hexcode#181717?style=plastic&logo=Github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
     </a>
   </span>
   <!-- Copyright -->

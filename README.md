@@ -10,6 +10,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
   
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="9f87b959-78a4-469a-bb34-8f01be61e51c" data-blockingmode="auto" type="text/javascript"></script>
+  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NQWJKX4BCS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NQWJKX4BCS');
+</script>
 </head>
 <body>
   <!-- Google Tag Manager (noscript) -->

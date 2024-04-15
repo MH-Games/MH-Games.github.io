@@ -36,6 +36,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
 광고 크롤링 위한 링크
 - [광고 크롤링](https://mh-games.com/app-ads.txt)
+- [광고 크롤링2](https://mh-games.com/ads.txt)
 - [구글 서치콘솔 인증](https://mh-games.com/googlefd894035d5ef7322.html)
 - [구글 서치콘솔 사이트맵](https://mh-games.com/sitemap.xml)
 - [구글 서치콘솔 robots](https://mh-games.com/robots.txt)

@@ -43,7 +43,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://mh-games.com/.well-known/blob/main/assetlinks.json</loc>
+  <loc>https://mh-games.com/.well-known/assetlinks.json</loc>
   <lastmod>2024-03-25T00:59:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
